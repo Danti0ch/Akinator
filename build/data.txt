@@ -1,0 +1,1 @@
+{"animal"{"nice"{"my cat"{"plotva"{}{}}{"1.5"{}{}}}{"cockroach"{}{}}}{"vedet algem"{"bogdanov"{}{}}{"woman"{"ivanova"{}{}}{"vedet matlog"{"Dashkov"{}{}}{"vedet physics"{"ovchinkin"{}{}}{"lukashov"{}{}}}}}}}{}

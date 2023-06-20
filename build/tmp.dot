@@ -1,0 +1,31 @@
+digraph Tree{
+0[label = "animal", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+0->1[label = "yes"];
+1[label = "nice", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+1->2[label = "yes"];
+2[label = "my cat", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+2->3[label = "yes"];
+3[label = "plotva", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+2->4[label = "no"];
+4[label = "1.5", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+1->5[label = "no"];
+5[label = "cockroach", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+0->6[label = "no"];
+6[label = "vedet algem", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+6->7[label = "yes"];
+7[label = "bogdanov", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+6->8[label = "no"];
+8[label = "woman", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+8->9[label = "yes"];
+9[label = "ivanova", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+8->10[label = "no"];
+10[label = "vedet matlog", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+10->11[label = "yes"];
+11[label = "Dashkov", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+10->12[label = "no"];
+12[label = "vedet physics", shape = "octagon", style="filled",fillcolor="#7FB3D5 "];
+12->13[label = "yes"];
+13[label = "ovchinkin", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+12->14[label = "no"];
+14[label = "lukashov", shape = "octagon", style="filled",fillcolor="#76D7C4"];
+}
